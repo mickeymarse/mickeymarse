@@ -1,6 +1,6 @@
-<h2><img src="./img/ciao.gif" width="50"/>I'm Michele Maria Serrapica a.k.a. Mickey!<img src="./img/alien_mickey.png" width="30"></h2>
+<h2 align='center'><img src="./img/ciao.gif" width="50"/>I'm Michele Maria Serrapica a.k.a. Mickey!<img src="./img/alien_mickey.png" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" width="230">
-<h3><em>Junior Full Stack Web Developer <img src="./img/pink_computer.gif" width="25"> 
+<h3 align='center'><em>Junior Full Stack Web Developer <img src="./img/pink_computer.gif" width="25"> 
 </em></h3>
 
 [![Instagram](https://img.shields.io/badge/@mickeymarse-%23E4405F.svg?style=social-pink&logo=Instagram&logoColor=white)](https://www.instagram.com/mickeymarse/)
