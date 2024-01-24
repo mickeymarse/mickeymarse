@@ -1,46 +1,66 @@
-<h1 align="center">💜 Hi! 🩷</h1>
-<h1 align="center">My name is Michele Maria (Mickey) Serrapica!</h1>
-<h3 align="center">Baker turned developer, sometimes writer, always storyteller.</h3>
+<h2><img src="./img/ciao.gif" width="50"/>I'm Michele Maria Serrapica a.k.a. Mickey!<img src="./img/alien_mickey.png" width="30"></h2>
+<img align='right' src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" width="230">
+<h3><em>Junior Full Stack Web Developer <img src="./img/pink_computer.gif" width="25"> 
+</em></h3>
 
-I recently finished the School of Code 16-weeks bootcamp and it was a life-changing experience!
+[![Instagram](https://img.shields.io/badge/@mickeymarse-%23E4405F.svg?style=social-pink&logo=Instagram&logoColor=white)](https://www.instagram.com/mickeymarse/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social-pink&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-maria-serrapica-b50963288/)
+[![Mastodon](https://img.shields.io/badge/-@mickeymarse-%232B90D9?style=social-pinke&logo=mastodon&logoColor=white)](https://tech.lgbt/@mickeymarse)
+[![Firefox](https://img.shields.io/badge/website/portfolio-FF7139?style=social-pink&logo=Firefox-Browser&logoColor=white)](https://www.mickeymarse.dev/)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Although my love for tech started years when I started using Linux as my OS, to then move to navigate the self-hosting world and eventually joined free online web development courses.
+<br /><br /><br /><br />
 
-Telling stories it's something I've always been doing, through words and food, and that' what I aim to do with coding as well. Every problem that needs solving has a hidden story we call solution and it is up to us to write the most compelling one.
+<h2 align='center'> <img src="./img/full-moon.gif" width="30"> A little more about me...  </h2>
 
-I'm currently working on two project for a small business based in London (a new website and a mobile app) while looking for a job.
+```javascript
+const anmol = {
+  pronouns: 'They' | 'Them',
 
-Feel free to get in touch if you're looking for a motivated junior developer and a great team player.
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
 
-* 🌍  I'm based in London
-* 🖥️  See my portfolio at [mickeymarse.dev](http://mickeymarse.dev)
-* ✉️  You can contact me at [mmserrapica@tutanota.com](mailto:mmserrapica@tutanota.com)
-* 🧠  I'm learning React Native/Expo
-* 🤝  I'm open to collaborating on any interesting (and possibly creative) project.
-* ⚡  I'm currently writing my first interactive fiction on Twine (Snowman). I'm also planning to learn Python and Ren'Py to "step up" my IFs to visual novels!
+  askMeAbout: ['web dev', 'tech', 'games', 'comics', 'witchcraft'],
+
+  technologies: {
+    backEnd: {
+      js: ['Node', 'Express'],
+    },
+    frontEnd: {
+      js: ['React', 'Next', 'Astro'],
+    },
+    mobileApp: {
+      js: ['React Native, Expo'],
+    },
+    devOps: ['AWS'],
+    databases: ['mongo', 'postgreSQL'],
+    testing: ['Vitest', 'Jest', 'Supertest', 'Playwright', 'RTL'],
+    misc: ['Supabase', 'Figma', 'Tailwind'],
+  },
+
+  architecture: ['Progressive web applications', 'Single page applications'],
+
+  currentFocus: 'Looking for a Junior Dev role.',
+
+  funFact: 'I bake a delish focaccia!',
+};
+```
+
+<img src="./img/meow_hug.png" width="20"> <b>Open to connections and collaborations. Especially if the projects are challenging!</b> <img src="./img/meow_hug.png" width="20">
+
+---
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 <br></br>
 
-<h3 align="right">Skills</h3>
-
-<p align="right">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a> <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
-
-<br></br>
-
-<h3 align="center">Socials</h3>
-
-<p align="center"> <a href="https://www.github.com/mickeymarse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mickeymarse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/michele-maria-serrapica-b50963288/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@mickeymarse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
-
-
-### **My GitHub Stats**
-
- <a  href="http://www.github.com/mickeymarse"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mickeymarse&show_icons=true&hide=stars,&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="mickeymarse's GitHub stats" /></a> <a  href="http://www.github.com/mickeymarse"><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickeymarse&stroke=ffffff&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=320" /></a> 
-
-
-<br></br>
-
-<h3 align="center">Top Repositories</h3>
+## <h2 align="center">Top Repositories</h2>
 
 <div width="100%" align="center"><a href="https://github.com/mickeymarse/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mickeymarse&repo=portfolio&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a> <a href="https://github.com/mickeymarse/SOCS-App-FE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mickeymarse&repo=SOCS-App-FE&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /> <br /><br />
 
