@@ -36,7 +36,7 @@ const anmol = {
     devOps: ['AWS'],
     databases: ['mongo', 'postgreSQL'],
     testing: ['Vitest', 'Jest', 'Supertest', 'Playwright', 'RTL'],
-    misc: ['Supabase', 'Figma', 'Tailwind'],
+    misc: ['Supabase', 'Figma', 'Tailwind', 'Twine'],
   },
 
   architecture: ['Progressive web applications', 'Single page applications'],
@@ -47,7 +47,9 @@ const anmol = {
 
   currentlyWorkingOn: {
     smallLondonBusiness: ['new website', 'mobile app'],
-    myFirstInteractiveFiction: ['Twine'],
+    myFirstInteractiveFiction: {
+      storyFormat: 'Snowman',
+    },
   },
 };
 ```
