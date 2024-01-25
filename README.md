@@ -4,6 +4,7 @@
 </em></h3>
 
 [![Instagram](https://img.shields.io/badge/@mickeymarse-%23E4405F.svg?style=social-pink&logo=Instagram&logoColor=white)](https://www.instagram.com/mickeymarse/)
+[![Threads](https://img.shields.io/badge/@mickeymarse-000000?style=social-pink&logo=Threads&logoColor=white)](https://www.threads.net/@mickeymarse)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social-pink&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-maria-serrapica-b50963288/)
 [![Mastodon](https://img.shields.io/badge/-@mickeymarse-%232B90D9?style=social-pinke&logo=mastodon&logoColor=white)](https://tech.lgbt/@mickeymarse)
 [![Firefox](https://img.shields.io/badge/website/portfolio-FF7139?style=social-pink&logo=Firefox-Browser&logoColor=white)](https://www.mickeymarse.dev/)
@@ -43,10 +44,19 @@ const anmol = {
   currentFocus: 'Looking for a Junior Dev role.',
 
   funFact: 'I bake a delish focaccia!',
+
+  currentlyWorkingOn: {
+    smallLondonBusiness: ['new website', 'mobile app'],
+    myFirstInteractiveFiction: ['Twine'],
+  },
 };
 ```
 
+<br></br>
+
 <img src="./img/meow_hug.png" width="20"> <b>Open to connections and collaborations. Especially if the projects are challenging!</b> <img src="./img/meow_hug.png" width="20">
+
+<br></br>
 
 ---
 
@@ -54,9 +64,9 @@ const anmol = {
 
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+###### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+###### NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 <br></br>
 
