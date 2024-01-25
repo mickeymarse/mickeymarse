@@ -36,7 +36,7 @@ const anmol = {
     devOps: ['AWS'],
     databases: ['mongo', 'postgreSQL'],
     testing: ['Vitest', 'Jest', 'Supertest', 'Playwright', 'RTL'],
-    misc: ['Supabase', 'Figma', 'Tailwind', 'Twine'],
+    misc: ['Supabase', 'Figma', 'Tailwind', 'Twine', 'Bash'],
   },
 
   architecture: ['Progressive web applications', 'Single page applications'],
