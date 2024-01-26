@@ -13,15 +13,15 @@
 
 <br /><br /><br /><br />
 
-<h2 align='center'> <img src="./img/full-moon.gif" width="30"> A little more about me...  </h2>
+<h2 align='center'> <img src="./img/full-moon.gif" width="30"> A little bit about me</h2>
 
 ```javascript
-const anmol = {
+const mickeyMarse = {
   pronouns: 'They' | 'Them',
 
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
 
-  askMeAbout: ['web dev', 'tech', 'games', 'comics', 'witchcraft'],
+  askMeAbout: ['web dev', 'tech', 'games', 'comics', 'witchcraft', 'baking'],
 
   technologies: {
     backEnd: {
@@ -39,31 +39,39 @@ const anmol = {
     misc: ['Supabase', 'Figma', 'Tailwind', 'Twine', 'Bash'],
   },
 
-  architecture: ['Progressive web applications', 'Single page applications'],
-
   currentFocus: 'Looking for a Junior Dev role.',
-
-  funFact: 'I bake a delish focaccia!',
-
-  currentlyWorkingOn: {
-    smallLondonBusiness: ['new website', 'mobile app'],
-    myFirstInteractiveFiction: {
-      storyFormat: 'Snowman',
-    },
-  },
 };
+```
+
+```html
+<h1>Currently Working On</h1>
+
+<ul>
+  <li>A new website for a small London business.</li>
+  <li>A mobile app for the same business.</li>
+  <li>My first interactive fiction written in Snowman (Twine).</li>
+  <li>I'm also learning Python and about DevOps.</li>
+</ul>
+```
+
+```java
+public class FunFacts {
+  public static void main (String[] args) {
+    String baking = "I bake a delish focaccia!";
+    String witchcraft = "I do tarot readings.";
+  }
+}
 ```
 
 <br></br>
 
-<img src="./img/meow_hug.png" width="20"> <b>Open to connections and collaborations. Especially if the projects are challenging!</b> <img src="./img/meow_hug.png" width="20">
+<img src="./img/meow_hug.png" width="20"> <b>Open to connections and collaborations. Especially if the projects are fun!</b> <img src="./img/meow_hug.png" width="20">
 
 <br></br>
 
 ---
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ###### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
