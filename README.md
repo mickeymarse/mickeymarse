@@ -17,7 +17,7 @@
 
 ```javascript
 const mickeyMarse = {
-  pronouns: 'They' | 'Them',
+  pronouns: ['They', 'Them'],
 
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
 
