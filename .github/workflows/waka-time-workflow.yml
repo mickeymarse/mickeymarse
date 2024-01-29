@@ -21,3 +21,4 @@ jobs:
           SHOW_TIMEZONE: 'False'
           SHOW_LOC_CHART: 'False'
           SYMBOL_VERSION: '3'
+          DEBUG_RUN: 'True'
