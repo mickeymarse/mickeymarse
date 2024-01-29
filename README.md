@@ -71,8 +71,8 @@ public class FunFacts {
 
 ---
 
-<!--START_SECTION:mickey_facts-->
-<!--END_SECTION:mickey_facts-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
