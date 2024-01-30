@@ -1,6 +1,6 @@
-<!-- <h2 align='center'><img src="./img/ciao.gif" width="50"/>I'm Michele Maria Serrapica a.k.a. Mickey!<img src="./img/alien_mickey.png" width="30"></h2> -->
+<h2 align='center'><img src="./img/ciao.gif" width="50"/>I'm Michele Maria Serrapica a.k.a. Mickey!<img src="./img/alien_mickey.png" width="30"></h2>
 <!-- FIXME: Remove bg to GIF -->
-<h2><img align='center' src="./img/readme_no_sh.gif" width="500"></h2>
+<!-- <h2><img align='center' src="./img/readme_no_sh.gif" width="500"></h2> -->
 <img align='right' src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" width="230">
 <h3 align='center'><em>Junior Full Stack Web Developer <img src="./img/pink_computer.gif" width="25"> 
 </em></h3>
