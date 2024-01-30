@@ -1,5 +1,6 @@
-<h2 align='center'><img src="./img/ciao.gif" width="50"/>I'm Michele Maria Serrapica a.k.a. Mickey!<img src="./img/alien_mickey.png" width="30"></h2>
-<!-- <h2><img align='center' src="./img/readme_title.GIF"></h2> -->
+<!-- <h2 align='center'><img src="./img/ciao.gif" width="50"/>I'm Michele Maria Serrapica a.k.a. Mickey!<img src="./img/alien_mickey.png" width="30"></h2> -->
+<!-- FIXME: Remove bg to GIF -->
+<h2><img align='center' src="./img/readme_no_sh.gif"></h2>
 <img align='right' src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" width="230">
 <h3 align='center'><em>Junior Full Stack Web Developer <img src="./img/pink_computer.gif" width="25"> 
 </em></h3>
@@ -73,80 +74,71 @@ public class FunFacts {
 ---
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 52.0 kB Used in GitHub's Storage 
- > 
+**🐱 My GitHub Data**
+
+> 📦 52.0 kB Used in GitHub's Storage
+>
 > 🏆 128 Contributions in the Year 2024
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 6 Public Repositories
+>
+> 🔑 2 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                280 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌆 Daytime                515 commits         ███████████████░░░░░░░░░░   58.52 % 
-🌃 Evening                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+🌞 Morning                280 commits         ████████░░░░░░░░░░░░░░░░░   31.82 %
+🌆 Daytime                515 commits         ███████████████░░░░░░░░░░   58.52 %
+🌃 Evening                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Tuesday                  195 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Wednesday                163 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Thursday                 196 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Friday                   204 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Saturday                 7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Sunday                   42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Tuesday                  195 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 %
+Wednesday                163 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 %
+Thursday                 196 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 %
+Friday                   204 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 %
+Saturday                 7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Sunday                   42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Markdown                 1 hr 40 mins        ███████████████████████░░   91.63 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+💬 Programming Languages:
+Markdown                 1 hr 40 mins        ███████████████████████░░   91.63 %
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
 
-🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-myReadme                 1 hr 49 mins        █████████████████████████   100.00 % 
+🐱‍💻 Projects:
+myReadme                 1 hr 49 mins        █████████████████████████   100.00 %
 
-💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    1 hr 49 mins        █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               45 repos            █████████████████████░░░░   84.91 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               45 repos            █████████████████████░░░░   84.91 %
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
+Last Updated on 29/01/2024 18:35:49 UTC
 
-
-
- Last Updated on 29/01/2024 18:35:49 UTC
 <!--END_SECTION:waka-->
 
 ###### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 ###### NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
-<br></br>
-
-## <h2 align="center">Top Repositories</h2>
-
-<div width="100%" align="center"><a href="https://github.com/mickeymarse/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mickeymarse&repo=portfolio&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a> <a href="https://github.com/mickeymarse/SOCS-App-FE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mickeymarse&repo=SOCS-App-FE&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /> <br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/mickeymarse/mickeymarse" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mickeymarse&repo=mickeymarse&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a> <a href="https://github.com/mickeymarse/Reading-Room-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mickeymarse&repo=Reading-Room-App&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a></div>
