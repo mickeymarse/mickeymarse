@@ -1,7 +1,7 @@
 <h2><img align='center' src="./img/name-title.svg"></h2>
 <img align='right' src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" width="230">
-<h3 align='center'><em>Junior Full Stack Web Developer <img src="./img/pink_computer.gif" width="25"> 
-</em></h3>
+<h3 align='center'><img src="./img/pink_computer.gif" width="25"> <em>Junior Full Stack Web Developer</em> <img src="./img/pink_computer.gif" width="25"> 
+</h3>
 
 [![Instagram](https://img.shields.io/badge/@mickeymarse-%23E4405F.svg?style=social-pink&logo=Instagram&logoColor=white)](https://www.instagram.com/mickeymarse/)
 [![Threads](https://img.shields.io/badge/@mickeymarse-000000?style=social-pink&logo=Threads&logoColor=white)](https://www.threads.net/@mickeymarse)
@@ -65,7 +65,7 @@ public class FunFacts {
 
 <br></br>
 
-<img src="./img/meow_hug.png" width="20"> <b>Open to connections and collaborations. Especially if the projects are fun!</b> <img src="./img/meow_hug.png" width="20">
+<h5 align='center'><img src="./img/meow_hug.png" width="20"> <b>Open to connections and collaborations. Especially if the projects are fun!</b> <img src="./img/meow_hug.png" width="20"></h5>
 
 <br></br>
 
