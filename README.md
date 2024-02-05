@@ -17,7 +17,7 @@
 
 ```javascript
 const mickeyMarse = {
-  pronouns: ['They', 'Them'],
+  pronouns: ['they', 'them'],
 
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
 
@@ -32,11 +32,13 @@ const mickeyMarse = {
     },
     mobileApp: {
       js: ['React Native, Expo'],
+      dart: ['Flutter'],
     },
-    devOps: ['AWS'],
-    databases: ['mongo', 'postgreSQL'],
+    os: ['Linux'],
+    gaming: ['Twine'],
+    databases: ['MongoDB', 'PostgreSQL'],
     testing: ['Vitest', 'Jest', 'Supertest', 'Playwright', 'RTL'],
-    misc: ['Supabase', 'Figma', 'Tailwind', 'Twine', 'Bash'],
+    misc: ['Supabase', 'Figma', 'Tailwind', 'Bash'],
   },
 
   currentFocus: 'Looking for a Junior Dev role.',
@@ -50,7 +52,7 @@ const mickeyMarse = {
   <li>A new website for a small London business.</li>
   <li>A mobile app for the same business.</li>
   <li>My first interactive fiction written in Snowman (Twine).</li>
-  <li>I'm also learning Python and about DevOps.</li>
+  <li>I'm also learning building my first Flutter project.</li>
 </ul>
 ```
 
