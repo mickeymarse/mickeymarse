@@ -112,16 +112,21 @@ Sunday                   62 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 22 mins       ███████████████████████░░   93.77 % 
+Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+21sidwebsite             2 hrs 15 mins       ████████████████░░░░░░░░░   62.62 % 
+21sidapp                 1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +142,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2024 18:36:24 UTC
+ Last Updated on 22/03/2024 18:36:11 UTC
 <!--END_SECTION:waka-->
 
 ###### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
