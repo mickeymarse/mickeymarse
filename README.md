@@ -21,7 +21,7 @@
 const mickeyMarse = {
   pronouns: ['they', 'them'],
 
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+  languages: ['Javascript', 'Typescript', 'Ruby', 'Python' 'HTML', 'CSS'],
 
   askMeAbout: ['web dev', 'tech', 'games', 'comics', 'witchcraft', 'baking'],
 
@@ -39,9 +39,9 @@ const mickeyMarse = {
       dart: ['Flutter'],
     },
 
-    databases: ['mongo', 'postgreSQL'],
+    databases: ['MongoDB', 'PostgreSQL', 'SQLite', 'GraphQL'],
     testing: ['Vitest', 'Jest', 'Supertest', 'Playwright', 'RTL'],
-    misc: ['Supabase', 'Figma', 'Tailwind', 'Bash'],
+    misc: ['Linux','Supabase', 'Figma', 'Tailwind', 'Bash'],
   },
 
   currentFocus: 'Looking for a Junior Dev role.',
@@ -54,8 +54,8 @@ const mickeyMarse = {
 <ul>
   <li>A new website for a small London business.</li>
   <li>A mobile app for the same business.</li>
-  <li>My first interactive fiction written in Snowman (Twine).</li>
-  <li>I'm also learning Python, Ruby and the BETH stack.</li>
+  <li>An app to track my media consumption.</li>
+  <li>Improving my tarot API.</li>
 </ul>
 ```
 
