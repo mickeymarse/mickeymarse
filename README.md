@@ -7,3 +7,8 @@
 - 🎴[TarMarAPI](https://github.com/mickeymarse/mic-check)
 
 I also have a 🌳[_blog_](https://www.mickeymarse.dev/blog)🪴
+
+### Contact Details
+```bash
+npx mickeymarse
+```
