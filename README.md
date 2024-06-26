@@ -9,6 +9,5 @@
 I also have a 🌳[_blog_](https://www.mickeymarse.dev/blog)🪴
 
 ### Contact Details
-```bash
-npx mickeymarse
-```
+
+<code style="max-width:10px;">npx mickeymarse</code>
