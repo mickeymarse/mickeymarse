@@ -4,7 +4,7 @@
 - ☕ [21 Sid Website](https://github.com/mickeymarse/21-sid-website)
 - 🎤 [Mic Check](https://github.com/mickeymarse/mic-check)
 - 🤓 [Metrak](https://github.com/mickeymarse/metrak)
-- 🎴 [TarMarAPI](https://github.com/mickeymarse/mic-check)
+- 🎴 [TarMarAPI](https://github.com/mickeymarse/tarmarapi)
 
 I also have a 🌳 [_blog_](https://www.mickeymarse.dev/blog) 🪴
 
