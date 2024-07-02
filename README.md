@@ -2,7 +2,7 @@
 
 ### Currently working on:
 - ☕ [21 Sid Website](https://github.com/mickeymarse/21-sid-website)
-- 🎤 [Mic Check](https://github.com/mickeymarse/mic-check)
+- 🎤 [Ping Check](https://github.com/mickeymarse/ping-check)
 - 🤓 [Metrak](https://github.com/mickeymarse/metrak)
 - 🎴 [TarMarAPI](https://github.com/mickeymarse/tarmarapi)
 
