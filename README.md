@@ -3,7 +3,7 @@
 ### Currently working on:
 - ☕ [21 Sid Website](https://github.com/mickeymarse/21-sid-website)
 - 🎤 [Ping Check](https://github.com/mickeymarse/ping-check)
-- 🤓 [Metrak](https://github.com/mickeymarse/metrak)
+- 🤓 [Metrak API](https://github.com/mickeymarse/metrakapi)
 - 🎴 [TarMarAPI](https://github.com/mickeymarse/tarmarapi)
 
 I also have a 🌳 [_blog_](https://www.mickeymarse.dev/blog) 🪴
