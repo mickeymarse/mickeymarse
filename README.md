@@ -1,13 +1,6 @@
-<img src="./s.png" alt="a digital hand drawn sigil" style="width:150px;height:150px;text-align:left;">
-
-### Currently working on:
-- ☕ [21 Sid Website](https://github.com/mickeymarse/21-sid-website)
-- 🎤 [Ping Check](https://github.com/mickeymarse/ping-check)
-- 🤓 [Metrak API](https://github.com/mickeymarse/metrak-api)
-- 🎴 [TarMarAPI](https://github.com/mickeymarse/tarmarapi)
-
-I also have a 🌳 [_blog_](https://www.mickeymarse.dev/blog) 🪴
-
-### Contact Details
-
-<code style="max-width:10px;">npx mickeymarse</code>
+<figure>
+    <a href="https://kinopio.club/invite?spaceId=wSHvVvydsPHmefyvV9Boi&readOnlyKey=Adfvpx0X4Oi9uBh0h0FKM&name=-mickeymarse" target="_blank">
+      <img src="./kinopio-board.png" alt="A screenshot of an About Me baord I created using kinopio" style="text-align:center;"/>
+    </a>
+    <figcaption>Click on the image to navigate to my board!</figcaption>
+</figure>
